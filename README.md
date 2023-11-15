@@ -1,18 +1,39 @@
-# 💫 About Me:
-Yuvraj Singh - Application Programmer Analyst & Tech Enthusiast<br>Welcome to my GitHub! I'm Yuvraj, an experienced Application Programmer Analyst with a passion for coding, data analysis, and continuous learning in technology. Here, you'll find projects that reflect my expertise and interests in these areas.<br><br>🌟 About Me<br>Professional Experience: Skilled in developing test plans, executing various types of testing, and contributing to test automation frameworks. Experienced in collaborating with development teams and stakeholders to ensure high software quality.<br>Education: Currently pursuing a Bachelor's in Computer Programming and Analysis from Seneca College (Jan 2022 - May 2024).<br>Skills: Proficient in warehouse management systems, kiosk management, RF troubleshooting, customer support, software documentation, manual testing, QA automation, and quality assurance testing.<br>🔍 My Projects<br>Here, you'll find projects that I've worked on, showcasing my skills in application programming, data analysis, and more. These projects are a testament to my dedication to learning and applying new technologies in the field.<br><br>📚 Education & Continuous Learning<br>Bachelor's in Computer Programming and Analysis - Seneca College (Jan 2022 - May 2024)<br>High School Computer Science - Manav Sthali School, India (2014 - 2021)<br>I believe in continuous learning and regularly update my skills to stay abreast of emerging technologies in the field.<br><br>📈 Professional Experience<br>Application Programmer Analyst (Jan 2023 - Present)<br>Customer Service Representative, Farm Boy (Canada) (Jul 2022 - Nov 2022)<br>Technical Warehouse Associate, ManpowerGroup (Apr 2022 - Jun 2022)<br>Student Representative, CERN (Aug 2019)<br>💡 Skills & Expertise<br>Warehouse Management Systems<br>Kiosk Management<br>RF Troubleshooting<br>Customer Support<br>Software Documentation<br>Manual Testing & QA Automation<br>Quality Assurance Testing<br>📫 How to Reach Me<br>Email: syuvraj1900@gmail.com<br>LinkedIn: linkedin.com/in/yuvraj-singh-s29<br>Feel free to reach out for collaborations, questions, or just a chat about technology!<br><br>This README provides a comprehensive overview of Yuvraj's professional and academic background, aligning with the contents of his resume while adapting it to the context of a GitHub profile. It's a great way to showcase his skills and experiences to potential collaborators and employers in the tech community.
+<h1 align="left">Hey 👋 What's up?</h1>
 
+###
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuvraj.xyzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvraj Singh) 
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=syuvraj19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=syuvraj19&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syuvraj19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=syuvraj19&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2 align="left">About me</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
