@@ -1,16 +1,17 @@
 # 💫 About Me:
 I am Yuvraj Singh, an analytically driven and technically adept Application Programmer Analyst currently enriching my knowledge in Computer Programming and Analysis at Seneca College. My technical expertise is demonstrated through advanced proficiency in software QA, test automation, and IT support, with a robust foundation in programming languages and development tools.
-![IMG_0957](https://github.com/syuvraj19/YuvrajSingh/assets/99282818/313afeca-74ed-4c47-ad5e-1f9533d201e6)
 
-<br><br>
-As a Student Ambassador at Seneca College, I leverage my technical skills to provide peer support, manage library systems, and ensure efficient resource circulation. My role also involves utilizing communication platforms to maintain high standards of student service and engagement.<br><br>
-Key Technical Proficiencies:<br>Programming & Analysis: Advanced Diploma pursuit with a GPA of 3.6, denoting strong analytical and programming capabilities.<br>
-Quality Assurance: Experienced in software testing, defect identification, and reporting, bolstering software quality and performance.<br>Technical Support: Competent in providing end-user IT support, and adept at using Microsoft Office Suite, communication tools, and managing digital content.<br>
-Project Development: Executed projects like the Express Library and Python-based Flight App, showcasing my coding and system design skills.<br>Through my roles at the Ministry of Education and Seneca College, I've consistently applied my technical knowledge to improve systems, enhance user experience, and foster an environment conducive to learning and growth.
+<img align="right" width="400" height="400" src="https://github.com/syuvraj19/YuvrajSingh/assets/99282818/313afeca-74ed-4c47-ad5e-1f9533d201e6">
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+As a Student Ambassador at Seneca College, I leverage my technical skills to provide peer support, manage library systems, and ensure efficient resource circulation. My role also involves utilizing communication platforms to maintain high standards of student service and engagement.
+
+Key Technical Proficiencies:
+- **Programming & Analysis**: Advanced Diploma pursuit with a GPA of 3.6, denoting strong analytical and programming capabilities.
+- **Quality Assurance**: Experienced in software testing, defect identification, and reporting, bolstering software quality and performance.
+- **Technical Support**: Competent in providing end-user IT support, and adept at using Microsoft Office Suite, communication tools, and managing digital content.
+- **Project Development**: Executed projects like the Express Library and Python-based Flight App, showcasing my coding and system design skills.
+
+Through my roles at the Ministry of Education and Seneca College, I've consistently applied my technical knowledge to improve systems, enhance user experience, and foster an environment conducive to learning and growth.
 
 ## 📫 How to Reach Me: 
 Email: syuvraj1900@gmail.com
