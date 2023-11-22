@@ -10,7 +10,6 @@ Email: syuvraj1900@gmail.com
 
 LinkedIn: linkedin.com/in/yuvraj-singh-s29
 
-
 ## 🌐 Social Media Handles:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011399805579) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yuvraj.xyzz/) 
