@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am Yuvraj Singh, an analytically driven and technically adept Application Programmer Analyst currently enriching my knowledge in Computer Programming and Analysis at Seneca College. My technical expertise is demonstrated through advanced proficiency in software QA, test automation, and IT support, with a robust foundation in programming languages and development tools.<br><br>
+I am Yuvraj Singh, an analytically driven and technically adept Application Programmer Analyst currently enriching my knowledge in Computer Programming and Analysis at Seneca College. My technical expertise is demonstrated through advanced proficiency in software QA, test automation, and IT support, with a robust foundation in programming languages and development tools.
+![IMG_0957](https://github.com/syuvraj19/YuvrajSingh/assets/99282818/313afeca-74ed-4c47-ad5e-1f9533d201e6)
+
+<br><br>
 As a Student Ambassador at Seneca College, I leverage my technical skills to provide peer support, manage library systems, and ensure efficient resource circulation. My role also involves utilizing communication platforms to maintain high standards of student service and engagement.<br><br>
 Key Technical Proficiencies:<br>Programming & Analysis: Advanced Diploma pursuit with a GPA of 3.6, denoting strong analytical and programming capabilities.<br>
 Quality Assurance: Experienced in software testing, defect identification, and reporting, bolstering software quality and performance.<br>Technical Support: Competent in providing end-user IT support, and adept at using Microsoft Office Suite, communication tools, and managing digital content.<br>
