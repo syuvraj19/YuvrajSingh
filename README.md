@@ -5,6 +5,10 @@ Key Technical Proficiencies:<br>Programming & Analysis: Advanced Diploma pursuit
 Quality Assurance: Experienced in software testing, defect identification, and reporting, bolstering software quality and performance.<br>Technical Support: Competent in providing end-user IT support, and adept at using Microsoft Office Suite, communication tools, and managing digital content.<br>
 Project Development: Executed projects like the Express Library and Python-based Flight App, showcasing my coding and system design skills.<br>Through my roles at the Ministry of Education and Seneca College, I've consistently applied my technical knowledge to improve systems, enhance user experience, and foster an environment conducive to learning and growth.
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
+
 ## 📫 How to Reach Me: 
 Email: syuvraj1900@gmail.com
 
