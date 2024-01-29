@@ -1,7 +1,7 @@
 # About Me:
 <p align=justify>I am Yuvraj Singh, an analytically driven and technically adept Application Programmer Analyst currently enriching my knowledge in Computer Programming and Analysis at Seneca College. My technical expertise is demonstrated through advanced proficiency in software QA, test automation, and IT support, with a robust foundation in programming languages and development tools.</p>
 
-<img align="right" width="400" height="500" src="(https://github.com/syuvraj19/YuvrajSingh/assets/99282818/596a2f21-193e-4e45-b827-37085af4adb2)" style="border:10 px solid black;">
+<img align="right" width="400" height="500" src="https://github.com/syuvraj19/YuvrajSingh/assets/99282818/596a2f21-193e-4e45-b827-37085af4adb2" style="border:10 px solid black;">
 
 
 
