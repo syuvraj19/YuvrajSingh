@@ -8,7 +8,7 @@
 <p align=justify>As a Student Ambassador at Seneca College, I leverage my technical skills to provide peer support, manage library systems, and ensure efficient resource circulation. My role also involves utilizing communication platforms to maintain high standards of student service and engagement.</p>
 
 Key Technical Proficiencies:
-- **Programming & Analysis**: Advanced Diploma pursuit with a GPA of 3.6, denoting strong analytical and programming capabilities.
+- **Programming & Analysis**: Advanced Diploma pursuit with a GPA of 3.6/4.0, denoting strong analytical and programming capabilities.
 - **Quality Assurance**: Experienced in software testing, defect identification, and reporting, bolstering software quality and performance.
 - **Technical Support**: Competent in providing end-user IT support, and adept at using Microsoft Office Suite, communication tools, and managing digital content.
 - **Project Development**: Executed projects like the Express Library and Python-based Flight App, showcasing my coding and system design skills.
