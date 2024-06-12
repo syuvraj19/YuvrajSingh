@@ -15,7 +15,7 @@ Key Technical Proficiencies:
 
 <p align=justify>Through my roles at the Ministry of Education and Seneca College, I've consistently applied my technical knowledge to improve systems, enhance user experience, and foster an environment conducive to learning and growth.</p>
 
-[<img src="https://img.shields.io/badge/Download-Resume-green.svg" alt="Download Resume" style="height: auto !important; width: auto !important;" />](LINK_TO_YOUR_RESUME)
+[<img src="https://img.shields.io/badge/Download-Resume-green.svg" alt="Download Resume" style="height: auto !important; width: auto !important;" />](https://github.com/user-attachments/files/15799143/Resume.pdf)
 
 ## 📫 How to Reach Me: 
 Email: syuvraj1900@gmail.com
