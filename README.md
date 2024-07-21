@@ -13,8 +13,6 @@ Key Technical Proficiencies:
 - **Technical Support**: Competent in providing end-user IT support, and adept at using Microsoft Office Suite, communication tools, and managing digital content.
 - **Project Development**: Executed projects like the Express Library and Python-based Flight App, showcasing my coding and system design skills.
 
-<p align=justify>Through my roles at the Ministry of Education and Seneca College, I've consistently applied my technical knowledge to improve systems, enhance user experience, and foster an environment conducive to learning and growth.</p>
-
 [<img src="https://img.shields.io/badge/Download-Resume-green.svg" alt="Download Resume" style="height: auto !important; width: auto !important;" />](https://github.com/user-attachments/files/15799143/Resume.pdf)
 
 ## 📫 How to Reach Me: 
