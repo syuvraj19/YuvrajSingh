@@ -3,9 +3,6 @@
 
 <img align="right" width="390" height="500" src="https://github.com/user-attachments/assets/4ec484ae-6144-4a7a-9b62-d3b65e5a7d09" style="border:10px solid black;">
 
-
-
-
 <p align=justify>As a Student Ambassador at Seneca College, I leverage my technical skills to provide peer support, manage library systems, and ensure efficient resource circulation. My role also involves utilizing communication platforms to maintain high student service and engagement standards.</p>
 
 Key Technical Proficiencies:
