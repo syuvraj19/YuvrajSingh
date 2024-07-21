@@ -5,7 +5,7 @@
 
 
 
-<p align=justify>As a Student Ambassador at Seneca College, I leverage my technical skills to provide peer support, manage library systems, and ensure efficient resource circulation. My role also involves utilizing communication platforms to maintain high standards of student service and engagement.</p>
+<p align=justify>As a Student Ambassador at Seneca College, I leverage my technical skills to provide peer support, manage library systems, and ensure efficient resource circulation. My role also involves utilizing communication platforms to maintain high student service and engagement standards.</p>
 
 Key Technical Proficiencies:
 - **Programming & Analysis**: Advanced Diploma pursuit with a GPA of 3.6/4.0, denoting strong analytical and programming capabilities.
@@ -88,4 +88,3 @@ LinkedIn: linkedin.com/in/yuvraj-singh-s29
 ---
 [![](https://visitcount.itsvg.in/api?id=syuvraj19&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
