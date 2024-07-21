@@ -82,9 +82,6 @@ LinkedIn: linkedin.com/in/yuvraj-singh-s29
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Random Software Developer Meme 😂
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=syuvraj19&icon=0&color=0)](https://visitcount.itsvg.in)
 
