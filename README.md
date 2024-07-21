@@ -13,6 +13,13 @@ Key Technical Proficiencies:
 
 [<img src="https://img.shields.io/badge/Download-Resume-green.svg" alt="Download Resume" style="height: auto !important; width: auto !important;" />](https://github.com/user-attachments/files/15799143/Resume.pdf)
 
+[<img src="https://img.shields.io/badge/Download-Resume-green.svg" alt="Download Resume" style="height: auto !important; width: auto !important;" />](https://github.com/user-attachments/files/15799143/Resume.pdf)
+
+[<img src="https://img.shields.io/badge/Email-Contact%20Me-blue.svg" alt="Email Contact" style="height: auto !important; width: auto !important;" />](mailto:your-email@example.com)
+
+[<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue.svg" alt="LinkedIn Profile" style="height: auto !important; width: auto !important;" />](https://www.linkedin.com/in/your-profile)
+
+
 ## 📫 How to Reach Me: 
 - Email: syuvraj1900@gmail.com
 - LinkedIn: linkedin.com/in/yuvraj-singh-s29
