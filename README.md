@@ -2,7 +2,8 @@
 <p align=justify>I am Yuvraj Singh, an analytically driven and technically adept Application Programmer Analyst currently enriching my knowledge in Computer Programming and Analysis at Seneca College. My technical expertise is demonstrated through advanced proficiency in software QA, test automation, and IT support, with a robust foundation in programming languages and development tools.</p>
 
 <img align="right" width="400" height="500" src="https://github.com/user-attachments/assets/7f79c09c-aed5-49a2-bd92-8a59eb2a07fa
-" style="border:10 px solid black;">
+" style="border:10 px solid black;">![AA4625C9-8138-4DAF-9BC2-35A43BA357AA_1_105_c](https://github.com/user-attachments/assets/4ec484ae-6144-4a7a-9b62-d3b65e5a7d09)
+
 
 
 
@@ -17,9 +18,8 @@ Key Technical Proficiencies:
 [<img src="https://img.shields.io/badge/Download-Resume-green.svg" alt="Download Resume" style="height: auto !important; width: auto !important;" />](https://github.com/user-attachments/files/15799143/Resume.pdf)
 
 ## 📫 How to Reach Me: 
-Email: syuvraj1900@gmail.com
-
-LinkedIn: linkedin.com/in/yuvraj-singh-s29
+- Email: syuvraj1900@gmail.com
+- LinkedIn: linkedin.com/in/yuvraj-singh-s29
 
 ## 🌐 Social Media Handles:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011399805579) 
