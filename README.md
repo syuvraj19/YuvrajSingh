@@ -11,8 +11,6 @@ Key Technical Proficiencies:
 - **Technical Support**: Competent in providing end-user IT support, and adept at using Microsoft Office Suite, communication tools, and managing digital content.
 - **Project Development**: Executed projects like the Express Library and Python-based Flight App, showcasing my coding and system design skills.
 
-## 📫 How to Reach Me: 
-
 [<img src="https://img.shields.io/badge/Download-Resume-green.svg" alt="Download Resume" style="height: auto !important; width: auto !important;" />](https://github.com/user-attachments/files/15799143/Resume.pdf)    [<img src="https://img.shields.io/badge/Email-Contact%20Me-blue.svg" alt="Email Contact" style="height: auto !important; width: auto !important;" />](mailto:syuvraj1900@gmail.com)
 
 ## 🌐 Social Media Handles:
