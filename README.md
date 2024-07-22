@@ -13,21 +13,52 @@ Key Technical Proficiencies:
 
 [<img src="https://img.shields.io/badge/Download-Resume-green.svg" alt="Download Resume" style="height: auto !important; width: auto !important;" />](https://github.com/user-attachments/files/15799143/Resume.pdf)    [<img src="https://img.shields.io/badge/Email-Contact%20Me-blue.svg" alt="Email Contact" style="height: auto !important; width: auto !important;" />](mailto:syuvraj1900@gmail.com)
 
+# My Technical Skills
+
+## Programming Languages
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=py)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![CSS3](https://skillicons.dev/icons?i=css)
+![HTML5](https://skillicons.dev/icons?i=html)
+![JavaScript](https://skillicons.dev/icons?i=js)
+
+## Frameworks/Libraries
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![React](https://skillicons.dev/icons?i=react)
+![jQuery](https://skillicons.dev/icons?i=jquery)
+![Next JS](https://skillicons.dev/icons?i=nextjs)
+
+## Tools/Platforms
+![Windows Terminal](https://skillicons.dev/icons?i=windows)
+![NPM](https://skillicons.dev/icons?i=npm)
+![GIT](https://skillicons.dev/icons?i=git)
+![LINUX](https://skillicons.dev/icons?i=linux)
+![ESLint](https://skillicons.dev/icons?i=eslint)
+![Jira](https://skillicons.dev/icons?i=jira)
+![Postman](https://skillicons.dev/icons?i=postman)
+![PowerShell](https://skillicons.dev/icons?i=powershell)
+
 ## 🌐 Social Media Handles
 [![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/profile.php?id=100011399805579) 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/yuvraj.xyzz/) 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yuvraj-singh-s29/) 
 [![Spotify](https://skillicons.dev/icons?i=spotify)](https://open.spotify.com/user/31ttondzwl5fx5hwq3paj7ot3uwi?si=quw0Th2dSNaScIInAHp-LA&nd=1) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yourprofile) 
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/yourprofile) 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/yourprofile) 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/yourchannel) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yourprofile) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/yourprofile) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yourprofile) 
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourprofile) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/yourprofile) 
-[![Dribbble](https://img.shields.io/badge/Dribbble-%23E4405F.svg?logo=dribbble&logoColor=white)](https://dribbble.com/yourprofile) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/yourprofile)
+[![YouTube](https://skillicons.dev/icons?i=youtube)](https://youtube.com/yourchannel) 
+[![Pinterest](https://skillicons.dev/icons?i=pinterest)](https://pinterest.com/yourprofile) 
+[![Reddit](https://skillicons.dev/icons?i=reddit)](https://reddit.com/user/yourprofile) 
+[![Medium](https://skillicons.dev/icons?i=medium)](https://medium.com/@yourprofile) 
+[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/yourprofile) 
+[![Twitch](https://skillicons.dev/icons?i=twitch)](https://twitch.tv/yourprofile) 
+[![Dribbble](https://skillicons.dev/icons?i=dribbble)](https://dribbble.com/yourprofile) 
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/yourprofile)
+
+## Contact
+Feel free to reach out to me for any queries or collaboration opportunities.
+
 
 
 # My Technical Skills: Programming Languages, Frameworks/Libraries,Tools/Platforms:
