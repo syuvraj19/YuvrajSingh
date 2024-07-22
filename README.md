@@ -22,29 +22,29 @@ Key Technical Proficiencies:
 # My Technical Skills
 
 ## Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=py)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![CSS3](https://skillicons.dev/icons?i=css)
+![HTML5](https://skillicons.dev/icons?i=html)
+![JavaScript](https://skillicons.dev/icons?i=js)
 
 ## Frameworks/Libraries
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![React](https://skillicons.dev/icons?i=react)
+![jQuery](https://skillicons.dev/icons?i=jquery)
+![Next JS](https://skillicons.dev/icons?i=nextjs)
 
 ## Tools/Platforms
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows Terminal](https://skillicons.dev/icons?i=windows)
+![NPM](https://skillicons.dev/icons?i=npm)
+![GIT](https://skillicons.dev/icons?i=git)
+![LINUX](https://skillicons.dev/icons?i=linux)
+![ESLint](https://skillicons.dev/icons?i=eslint)
+![Jira](https://skillicons.dev/icons?i=jira)
+![Postman](https://skillicons.dev/icons?i=postman)
+![PowerShell](https://skillicons.dev/icons?i=powershell)
 
 ## Contact
 Feel free to reach out to me for any queries or collaboration opportunities.
