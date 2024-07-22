@@ -19,9 +19,7 @@ Key Technical Proficiencies:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-singh-s29/) 
 [![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?&logo=Spotify&logoColor=white)](https://open.spotify.com/user/31ttondzwl5fx5hwq3paj7ot3uwi?si=quw0Th2dSNaScIInAHp-LA&nd=1)
 
-# My Technical Skills
-
-## Programming Languages
+# My Technical Skills: Programming Languages, Frameworks/Libraries,Tools/Platforms:
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Python](https://skillicons.dev/icons?i=py)
@@ -29,14 +27,10 @@ Key Technical Proficiencies:
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-
-## Frameworks/Libraries
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![React](https://skillicons.dev/icons?i=react)
 ![jQuery](https://skillicons.dev/icons?i=jquery)
 ![Next JS](https://skillicons.dev/icons?i=nextjs)
-
-## Tools/Platforms
 ![Windows Terminal](https://skillicons.dev/icons?i=windows)
 ![NPM](https://skillicons.dev/icons?i=npm)
 ![GIT](https://skillicons.dev/icons?i=git)
@@ -45,19 +39,6 @@ Key Technical Proficiencies:
 ![Jira](https://skillicons.dev/icons?i=jira)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![PowerShell](https://skillicons.dev/icons?i=powershell)
-
-## Contact
-Feel free to reach out to me for any queries or collaboration opportunities.
-
-
-## Database Management and Hosting/SaaS:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 
 ## 💡 📸 🎥 💽 Editing and Designing:
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
