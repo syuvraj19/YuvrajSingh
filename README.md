@@ -17,8 +17,17 @@ Key Technical Proficiencies:
 [![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/profile.php?id=100011399805579) 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/yuvraj.xyzz/) 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yuvraj-singh-s29/) 
-[![Spotify](https://skillicons.dev/icons?i=spotify)](https://open.spotify.com/user/31ttondzwl5fx5hwq3paj7ot3uwi?si=quw0Th2dSNaScIInAHp-LA&nd=1)
-
+[![Spotify](https://skillicons.dev/icons?i=spotify)](https://open.spotify.com/user/31ttondzwl5fx5hwq3paj7ot3uwi?si=quw0Th2dSNaScIInAHp-LA&nd=1) 
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/yourprofile) 
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/yourprofile) 
+[![YouTube](https://skillicons.dev/icons?i=youtube)](https://youtube.com/yourchannel) 
+[![Pinterest](https://skillicons.dev/icons?i=pinterest)](https://pinterest.com/yourprofile) 
+[![Reddit](https://skillicons.dev/icons?i=reddit)](https://reddit.com/user/yourprofile) 
+[![Medium](https://skillicons.dev/icons?i=medium)](https://medium.com/@yourprofile) 
+[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/yourprofile) 
+[![Twitch](https://skillicons.dev/icons?i=twitch)](https://twitch.tv/yourprofile) 
+[![Dribbble](https://skillicons.dev/icons?i=dribbble)](https://dribbble.com/yourprofile) 
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/yourprofile)
 
 # My Technical Skills: Programming Languages, Frameworks/Libraries,Tools/Platforms:
 ![C](https://skillicons.dev/icons?i=c)
