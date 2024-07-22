@@ -13,11 +13,12 @@ Key Technical Proficiencies:
 
 [<img src="https://img.shields.io/badge/Download-Resume-green.svg" alt="Download Resume" style="height: auto !important; width: auto !important;" />](https://github.com/user-attachments/files/15799143/Resume.pdf)    [<img src="https://img.shields.io/badge/Email-Contact%20Me-blue.svg" alt="Email Contact" style="height: auto !important; width: auto !important;" />](mailto:syuvraj1900@gmail.com)
 
-## 🌐 Social Media Handles:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011399805579) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yuvraj.xyzz/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-singh-s29/) 
-[![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?&logo=Spotify&logoColor=white)](https://open.spotify.com/user/31ttondzwl5fx5hwq3paj7ot3uwi?si=quw0Th2dSNaScIInAHp-LA&nd=1)
+## 🌐 Social Media Handles
+[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/profile.php?id=100011399805579) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/yuvraj.xyzz/) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yuvraj-singh-s29/) 
+[![Spotify](https://skillicons.dev/icons?i=spotify)](https://open.spotify.com/user/31ttondzwl5fx5hwq3paj7ot3uwi?si=quw0Th2dSNaScIInAHp-LA&nd=1)
+
 
 # My Technical Skills: Programming Languages, Frameworks/Libraries,Tools/Platforms:
 ![C](https://skillicons.dev/icons?i=c)
