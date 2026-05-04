@@ -14,7 +14,7 @@ I bring a combination of **business strategy, analytics, and technical execution
 ## 💼 Experience  
 
 ### Partner Acquisition Intern — Dassault Systèmes  
-*Jul 2025 – Present | Gurugram, India*  
+*Jul 2025 – Sep 2025 | Gurugram, India*  
 - Conducted market research to identify strategic partners, contributing to pipeline growth  
 - Supported outreach via LinkedIn, email, and events to engage high-value prospects  
 - Collaborated with cross-functional teams on onboarding and GTM execution  
