@@ -1,63 +1,73 @@
-# Hi, I'm Yuvraj Singh 👋  
+# Hi, I am Yuvraj Singh  
 
-🎯 Business + Tech | Aspiring Consultant | Data-Driven Problem Solver  
+🎯 Business + Technology | Consulting | Strategy | Analytics  
 
 ---
 
 ## 🚀 About Me  
-I’m a Business Management (BMS) student at Shaheed Sukhdev College of Business Studies, University of Delhi, with a background in Computer Programming from Seneca College, Canada.  
+I’m a Business Management student at Shaheed Sukhdev College of Business Studies (University of Delhi) with a diploma in Computer Programming from Seneca College, Canada.  
 
-I combine **technical expertise with business thinking** to solve real-world problems — from process optimization to data-backed decision-making.  
-
-- 💼 Experience: Ministry of Education (Canada), Seneca College  
-- 📊 Focus Areas: Consulting, Business Analytics, Strategy  
-- ⚙️ Strengths: Stakeholder Management, Process Improvement, QA & Data Analysis  
+I bring a combination of **business strategy, analytics, and technical execution**, with experience across consulting, business analysis, and go-to-market strategy.
 
 ---
 
-## 🧠 What I Bring  
-- Analytical mindset with strong problem-solving ability  
-- Experience working with cross-functional teams  
-- Ability to bridge **technical + business domains**  
-- Hands-on exposure to real-world systems, testing, and workflows  
+## 💼 Experience  
+
+### Partner Acquisition Intern — Dassault Systèmes  
+*Jul 2025 – Present | Gurugram, India*  
+- Conducted market research to identify strategic partners, contributing to pipeline growth  
+- Supported outreach via LinkedIn, email, and events to engage high-value prospects  
+- Collaborated with cross-functional teams on onboarding and GTM execution  
+- Developed partner pitches and conducted competitive analysis  
+
+### Business Analyst Intern — Ministry of Education, Canada  
+*Jan 2023 – Dec 2023 | Toronto, Canada*  
+- Gathered and analyzed business requirements with stakeholders  
+- Built process models, workflows, and user stories for project execution  
+- Conducted gap analysis and identified process improvement opportunities  
+- Supported UAT and project delivery through structured testing and tracking  
+
+### Student Consultant — Seneca College  
+*Aug 2023 – Apr 2024 | Toronto, Canada*  
+- Managed 70+ weekly queries, improving resolution efficiency  
+- Streamlined communication systems, reducing unresolved issues by 30%  
+- Led student engagement initiatives and improved service processes  
+
+---
+
+## 🧠 Core Strengths  
+- Business Analysis & Process Optimization  
+- Market Research & Competitive Strategy  
+- Stakeholder Management & Cross-functional Collaboration  
+- Data Analysis & Decision Support  
 
 ---
 
 ## 🛠️ Skills  
 
-### 💻 Tech & Tools  
-C • C++ • Python • JavaScript • TypeScript  
-React • Next.js • HTML • CSS • Bootstrap  
+**Business & Consulting**  
+Market Research • Business Analysis • Strategy • Process Improvement  
 
-Git • Linux • Postman • Jira • PowerShell  
+**Analytics & Tools**  
+Python • SQL • Power BI • Tableau • Advanced Excel  
 
-### 📊 Business & Analytics  
-Data Analysis • Process Improvement • QA Testing  
-Project Management • Financial Analysis • Strategy  
-
----
-
-## 📌 Projects  
-- 📚 **Express Library System** – Backend-focused system for managing resources  
-- ✈️ **Python Flight App** – Logic-driven application for travel workflows  
+**Technical & Systems**  
+JIRA • Agile • UAT Testing • Workflow Design  
 
 ---
 
-## 📈 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=syuvraj19&show_icons=true&theme=dark)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=syuvraj19&theme=dark)  
+## 📈 Focus Areas  
+- Consulting  
+- Business Analytics  
+- Strategy & Operations  
 
 ---
 
-## 🌐 Connect With Me  
-- 💼 LinkedIn: https://www.linkedin.com/in/yuvraj-singh-s29/  
-- 📧 Email: syuvraj1900@gmail.com  
+## 🌐 Connect  
+📧 syuvraj1900@gmail.com  
+🔗 https://www.linkedin.com/in/yuvraj-singh-s29/  
 
 ---
 
 ## 📄 Resume  
-[Download Resume](https://github.com/user-attachments/files/15799143/Resume.pdf)
-
----
-
-⭐ *Open to opportunities in Consulting, Business Analytics, and Strategy Roles*
+[Download Resume](<YOUR_LINK>)
