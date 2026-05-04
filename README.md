@@ -1,65 +1,63 @@
-# About Me:
-<p align=justify>I am Yuvraj Singh, an analytically driven and technically adept Application Programmer Analyst currently enriching my Computer Programming and Analysis knowledge at Seneca College. My technical expertise is demonstrated through advanced proficiency in software QA, test automation, and IT support, with a robust foundation in programming languages and development tools.</p>
+# Hi, I'm Yuvraj Singh 👋  
 
-<img align="right" width="320" height="420" src="https://github.com/user-attachments/assets/4ec484ae-6144-4a7a-9b62-d3b65e5a7d09" style="border:10px solid black;">
-
-<p align=justify>As a Student Ambassador at Seneca College, I leverage my technical skills to provide peer support, manage library systems, and ensure efficient resource circulation. My role also involves utilizing communication platforms to maintain high student service and engagement standards.</p>
-
-Key Technical Proficiencies:
-- **Programming & Analysis**: Advanced Diploma pursuit with a GPA of 3.6/4.0, denoting strong analytical and programming capabilities.
-- **Quality Assurance**: Experienced in software testing, defect identification, and reporting, bolstering software quality and performance.
-- **Technical Support**: Competent in providing end-user IT support, and adept at using Microsoft Office Suite, communication tools, and managing digital content.
-- **Project Development**: Executed projects like the Express Library and Python-based Flight App, showcasing my coding and system design skills.
-
-[<img src="https://img.shields.io/badge/Download-Resume-green.svg" alt="Download Resume" style="height: auto !important; width: auto !important;" />](https://github.com/user-attachments/files/15799143/Resume.pdf)    [<img src="https://img.shields.io/badge/Email-Contact%20Me-blue.svg" alt="Email Contact" style="height: auto !important; width: auto !important;" />](mailto:syuvraj1900@gmail.com)
-
-# My Technical Skills: Programming Languages, Frameworks/Libraries,Tools/Platforms:
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=py)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![CSS3](https://skillicons.dev/icons?i=css)
-![HTML5](https://skillicons.dev/icons?i=html)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![React](https://skillicons.dev/icons?i=react)
-![jQuery](https://skillicons.dev/icons?i=jquery)
-![Next JS](https://skillicons.dev/icons?i=nextjs)
-![Windows Terminal](https://skillicons.dev/icons?i=windows)
-![NPM](https://skillicons.dev/icons?i=npm)
-![GIT](https://skillicons.dev/icons?i=git)
-![LINUX](https://skillicons.dev/icons?i=linux)
-![ESLint](https://skillicons.dev/icons?i=eslint)
-![Jira](https://skillicons.dev/icons?i=jira)
-![Postman](https://skillicons.dev/icons?i=postman)
-![PowerShell](https://skillicons.dev/icons?i=powershell)
-
-## 💡 📸 🎥 💽 Editing and Designing:
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-
-## 🌐 Social Media Handles
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/profile.php?id=100011399805579) 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/yuvraj.xyzz/) 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yuvraj-singh-s29/) 
-[![Spotify](https://skillicons.dev/icons?i=spotify)](https://open.spotify.com/user/31ttondzwl5fx5hwq3paj7ot3uwi?si=quw0Th2dSNaScIInAHp-LA&nd=1) 
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/yourprofile) 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/yourprofile) 
-[![YouTube](https://skillicons.dev/icons?i=youtube)](https://youtube.com/yourchannel) 
-[![Pinterest](https://skillicons.dev/icons?i=pinterest)](https://pinterest.com/yourprofile) 
-[![Reddit](https://skillicons.dev/icons?i=reddit)](https://reddit.com/user/yourprofile) 
-[![Medium](https://skillicons.dev/icons?i=medium)](https://medium.com/@yourprofile) 
-[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/yourprofile) 
-[![Twitch](https://skillicons.dev/icons?i=twitch)](https://twitch.tv/yourprofile) 
-[![Dribbble](https://skillicons.dev/icons?i=dribbble)](https://dribbble.com/yourprofile) 
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/yourprofile)
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=syuvraj19&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api?username=syuvraj19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-contributor-stats.vercel.app/api?username=syuvraj19&limit=5&theme=dark&combine_all_yearly_contributions=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syuvraj19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🎯 Business + Tech | Aspiring Consultant | Data-Driven Problem Solver  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=syuvraj19&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 About Me  
+I’m a Business Management (BMS) student at Shaheed Sukhdev College of Business Studies, University of Delhi, with a background in Computer Programming from Seneca College, Canada.  
+
+I combine **technical expertise with business thinking** to solve real-world problems — from process optimization to data-backed decision-making.  
+
+- 💼 Experience: Ministry of Education (Canada), Seneca College  
+- 📊 Focus Areas: Consulting, Business Analytics, Strategy  
+- ⚙️ Strengths: Stakeholder Management, Process Improvement, QA & Data Analysis  
+
+---
+
+## 🧠 What I Bring  
+- Analytical mindset with strong problem-solving ability  
+- Experience working with cross-functional teams  
+- Ability to bridge **technical + business domains**  
+- Hands-on exposure to real-world systems, testing, and workflows  
+
+---
+
+## 🛠️ Skills  
+
+### 💻 Tech & Tools  
+C • C++ • Python • JavaScript • TypeScript  
+React • Next.js • HTML • CSS • Bootstrap  
+
+Git • Linux • Postman • Jira • PowerShell  
+
+### 📊 Business & Analytics  
+Data Analysis • Process Improvement • QA Testing  
+Project Management • Financial Analysis • Strategy  
+
+---
+
+## 📌 Projects  
+- 📚 **Express Library System** – Backend-focused system for managing resources  
+- ✈️ **Python Flight App** – Logic-driven application for travel workflows  
+
+---
+
+## 📈 GitHub Stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=syuvraj19&show_icons=true&theme=dark)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=syuvraj19&theme=dark)  
+
+---
+
+## 🌐 Connect With Me  
+- 💼 LinkedIn: https://www.linkedin.com/in/yuvraj-singh-s29/  
+- 📧 Email: syuvraj1900@gmail.com  
+
+---
+
+## 📄 Resume  
+[Download Resume](https://github.com/user-attachments/files/15799143/Resume.pdf)
+
+---
+
+⭐ *Open to opportunities in Consulting, Business Analytics, and Strategy Roles*
